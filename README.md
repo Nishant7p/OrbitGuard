@@ -14,7 +14,7 @@
 
 Free, explainable, **validated** conjunction assessment for the satellite operators that commercial space-traffic services price out.
 
-**[Live app](https://orbit-guard-six.vercel.app)** &nbsp;·&nbsp; **[Watch the demo](https://www.youtube.com/watch?v=QgZVFgDO7-E)** &nbsp;·&nbsp; **[Technical report](OrbitGuard_Technical_Report.pdf)**
+**[Live app](https://orbit-guard-six.vercel.app)** &nbsp;·&nbsp; **[Watch the demo](https://www.youtube.com/watch?v=fEIqrPD10v0)** &nbsp;·&nbsp; **[Technical report](OrbitGuard_Technical_Report.pdf)**
 
 </div>
 
